@@ -5,15 +5,24 @@ This repository contains a machine learning project aimed at predicting waiter t
 The goal of this project is to build a predictive model that can accurately estimate the tips given to waiters in a restaurant setting. By leveraging machine learning techniques, we can understand the factors that influence tipping behavior and make data-driven predictions.
 
 ## Dataset
-The dataset used in this project is the "tips" dataset, which is commonly used for demonstration purposes in data science. It includes the following columns:
+The dataset used in this project is the "tips" dataset, which is commonly used for demonstration purposes in data science. 
+
+It includes the following columns:
 
 total_bill: The total bill amount (including the cost of food and drinks).
+
 tip: The tip amount.
+
 sex: Gender of the person paying the bill (male or female).
+
 smoker: Whether the person is a smoker (yes or no).
+
 day: Day of the week (Thursday, Friday, Saturday, Sunday).
+
 time: Time of day (lunch or dinner).
+
 size: Size of the party.
+
 ## Features
 Data preprocessing and cleaning.
 Exploratory data analysis (EDA).
