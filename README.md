@@ -9,19 +9,19 @@ The dataset used in this project is the "tips" dataset, which is commonly used f
 
 It includes the following columns:
 
-total_bill: The total bill amount (including the cost of food and drinks).
+1. total_bill: The total bill amount (including the cost of food and drinks).
 
-tip: The tip amount.
+2. tip: The tip amount.
 
-sex: Gender of the person paying the bill (male or female).
+3. sex: Gender of the person paying the bill (male or female).
 
-smoker: Whether the person is a smoker (yes or no).
+4. smoker: Whether the person is a smoker (yes or no).
 
-day: Day of the week (Thursday, Friday, Saturday, Sunday).
+5. day: Day of the week (Thursday, Friday, Saturday, Sunday).
 
-time: Time of day (lunch or dinner).
+6. time: Time of day (lunch or dinner).
 
-size: Size of the party.
+7. size: Size of the party.
 
 ## Features
 Data preprocessing and cleaning.
